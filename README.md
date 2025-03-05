@@ -13,15 +13,15 @@ Analyzing book found at books/mobydick.txt...<br />
 ----------- Word Count ----------<br />
 Found 215838 total words<br />
 --------- Character Count -------<br />
-e:  119351<br />
-t:  89874<br />
-a:  79226<br />
-o:  70809<br />
-n:  66782<br />
-i:  66675<br />
-s:  65138<br />
-h:  63769<br />
-r:  53593<br />
+e: &nbsp;119351<br />
+t: &nbsp;89874<br />
+a: &nbsp;79226<br />
+o: &nbsp;70809<br />
+n: &nbsp;66782<br />
+i: &nbsp;66675<br />
+s: &nbsp;65138<br />
+h: &nbsp;63769<br />
+r: &nbsp;53593<br />
 l:  43351<br />
 d:  38840<br />
 u:  27205<br />
