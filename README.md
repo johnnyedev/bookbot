@@ -1,13 +1,13 @@
 # bookbot
 
-BookBot is a simple python project that takes book text as an input file and produces statstics on the number of words and a descending order of character appearances.
+BookBot is a simple Python project that takes book text as an input file and produces statstics on the number of words and a descending order of character appearances.
 
 ### Example:
 
-#### Command:
+Command:
 python3 main.py ./mobydick.txt
 
-#### Output:
+Output:
 ============ BOOKBOT ============
 Analyzing book found at books/mobydick.txt...
 ----------- Word Count ----------
